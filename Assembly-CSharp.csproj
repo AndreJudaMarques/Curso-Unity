@@ -43,10 +43,12 @@
      <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\AulaDeFor.cs" />
      <Compile Include="Assets\Scripts\AulaForeach.cs" />
+     <Compile Include="Assets\Scripts\AulaVectors.cs" />
      <Compile Include="Assets\Scripts\AulaLista.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\AulaWhileDo.cs" />
      <Compile Include="Assets\Scripts\AulaArray.cs" />
+     <Compile Include="Assets\Scripts\AulaGetComponent.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.9f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
