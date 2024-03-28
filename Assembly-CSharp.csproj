@@ -40,9 +40,11 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.9f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\AulaDeFor.cs" />
      <Compile Include="Assets\Scripts\AulaForeach.cs" />
      <Compile Include="Assets\Scripts\AulaLista.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\AulaWhileDo.cs" />
      <Compile Include="Assets\Scripts\AulaArray.cs" />
     <Reference Include="UnityEngine">
